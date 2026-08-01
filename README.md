@@ -1,2 +1,2 @@
 # small-project-1
-Projeto pequeno pra treina!!
+Projeto pequeno de um pedido de supermercado!
